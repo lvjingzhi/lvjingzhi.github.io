@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="097eaea5-bd4b-42b0-b4f2-a718d6b53546" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lvjingzhi.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/highlight.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/highlight.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/hux-blog.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/hux-blog.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/css/timeline.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/fonts/huxico.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/hux_avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/intern-alitrip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/intern-lxu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/logo-jquery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/logo-kissy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/logo-react.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/logo-vue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/newmedia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/senova.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-busyweek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-hslider.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-puzzle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-truth.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-uihome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-wepiao-bo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/images/work-yanshuo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/js/modernizr.custom.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570756635305</updated>
-      <workItem from="1570756636485" duration="2451000" />
+      <workItem from="1570756636485" duration="2839000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1570761500392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570761500392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
 </project>
